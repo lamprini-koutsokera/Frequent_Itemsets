@@ -1,0 +1,2 @@
+('a',):3;('and',):4;('cat',):5;('dog',):6;('training',):3
+('and', 'cat'):3;('and', 'dog'):3;('cat', 'dog'):4
